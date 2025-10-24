@@ -1,0 +1,15 @@
+C:\Users\50408858818\Desktop\BackEnd_M\Exercicio6R\bin\Debug\net9.0\Exercicio6R.exe
+C:\Users\50408858818\Desktop\BackEnd_M\Exercicio6R\bin\Debug\net9.0\Exercicio6R.deps.json
+C:\Users\50408858818\Desktop\BackEnd_M\Exercicio6R\bin\Debug\net9.0\Exercicio6R.runtimeconfig.json
+C:\Users\50408858818\Desktop\BackEnd_M\Exercicio6R\bin\Debug\net9.0\Exercicio6R.dll
+C:\Users\50408858818\Desktop\BackEnd_M\Exercicio6R\bin\Debug\net9.0\Exercicio6R.pdb
+C:\Users\50408858818\Desktop\BackEnd_M\Exercicio6R\obj\Debug\net9.0\Exercicio6R.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\50408858818\Desktop\BackEnd_M\Exercicio6R\obj\Debug\net9.0\Exercicio6R.AssemblyInfoInputs.cache
+C:\Users\50408858818\Desktop\BackEnd_M\Exercicio6R\obj\Debug\net9.0\Exercicio6R.AssemblyInfo.cs
+C:\Users\50408858818\Desktop\BackEnd_M\Exercicio6R\obj\Debug\net9.0\Exercicio6R.csproj.CoreCompileInputs.cache
+C:\Users\50408858818\Desktop\BackEnd_M\Exercicio6R\obj\Debug\net9.0\Exercicio6R.sourcelink.json
+C:\Users\50408858818\Desktop\BackEnd_M\Exercicio6R\obj\Debug\net9.0\Exercicio6R.dll
+C:\Users\50408858818\Desktop\BackEnd_M\Exercicio6R\obj\Debug\net9.0\refint\Exercicio6R.dll
+C:\Users\50408858818\Desktop\BackEnd_M\Exercicio6R\obj\Debug\net9.0\Exercicio6R.pdb
+C:\Users\50408858818\Desktop\BackEnd_M\Exercicio6R\obj\Debug\net9.0\Exercicio6R.genruntimeconfig.cache
+C:\Users\50408858818\Desktop\BackEnd_M\Exercicio6R\obj\Debug\net9.0\ref\Exercicio6R.dll

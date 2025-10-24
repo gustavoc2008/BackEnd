@@ -1,0 +1,15 @@
+C:\Users\50408858818\Desktop\BackEnd_M\Exercicio4R\bin\Debug\net9.0\Exercicio4R.exe
+C:\Users\50408858818\Desktop\BackEnd_M\Exercicio4R\bin\Debug\net9.0\Exercicio4R.deps.json
+C:\Users\50408858818\Desktop\BackEnd_M\Exercicio4R\bin\Debug\net9.0\Exercicio4R.runtimeconfig.json
+C:\Users\50408858818\Desktop\BackEnd_M\Exercicio4R\bin\Debug\net9.0\Exercicio4R.dll
+C:\Users\50408858818\Desktop\BackEnd_M\Exercicio4R\bin\Debug\net9.0\Exercicio4R.pdb
+C:\Users\50408858818\Desktop\BackEnd_M\Exercicio4R\obj\Debug\net9.0\Exercicio4R.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\50408858818\Desktop\BackEnd_M\Exercicio4R\obj\Debug\net9.0\Exercicio4R.AssemblyInfoInputs.cache
+C:\Users\50408858818\Desktop\BackEnd_M\Exercicio4R\obj\Debug\net9.0\Exercicio4R.AssemblyInfo.cs
+C:\Users\50408858818\Desktop\BackEnd_M\Exercicio4R\obj\Debug\net9.0\Exercicio4R.csproj.CoreCompileInputs.cache
+C:\Users\50408858818\Desktop\BackEnd_M\Exercicio4R\obj\Debug\net9.0\Exercicio4R.sourcelink.json
+C:\Users\50408858818\Desktop\BackEnd_M\Exercicio4R\obj\Debug\net9.0\Exercicio4R.dll
+C:\Users\50408858818\Desktop\BackEnd_M\Exercicio4R\obj\Debug\net9.0\refint\Exercicio4R.dll
+C:\Users\50408858818\Desktop\BackEnd_M\Exercicio4R\obj\Debug\net9.0\Exercicio4R.pdb
+C:\Users\50408858818\Desktop\BackEnd_M\Exercicio4R\obj\Debug\net9.0\Exercicio4R.genruntimeconfig.cache
+C:\Users\50408858818\Desktop\BackEnd_M\Exercicio4R\obj\Debug\net9.0\ref\Exercicio4R.dll

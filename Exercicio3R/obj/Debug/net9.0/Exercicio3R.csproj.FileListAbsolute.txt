@@ -1,0 +1,15 @@
+C:\Users\50408858818\Desktop\BackEnd_M\Exercicio3R\bin\Debug\net9.0\Exercicio3R.exe
+C:\Users\50408858818\Desktop\BackEnd_M\Exercicio3R\bin\Debug\net9.0\Exercicio3R.deps.json
+C:\Users\50408858818\Desktop\BackEnd_M\Exercicio3R\bin\Debug\net9.0\Exercicio3R.runtimeconfig.json
+C:\Users\50408858818\Desktop\BackEnd_M\Exercicio3R\bin\Debug\net9.0\Exercicio3R.dll
+C:\Users\50408858818\Desktop\BackEnd_M\Exercicio3R\bin\Debug\net9.0\Exercicio3R.pdb
+C:\Users\50408858818\Desktop\BackEnd_M\Exercicio3R\obj\Debug\net9.0\Exercicio3R.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\50408858818\Desktop\BackEnd_M\Exercicio3R\obj\Debug\net9.0\Exercicio3R.AssemblyInfoInputs.cache
+C:\Users\50408858818\Desktop\BackEnd_M\Exercicio3R\obj\Debug\net9.0\Exercicio3R.AssemblyInfo.cs
+C:\Users\50408858818\Desktop\BackEnd_M\Exercicio3R\obj\Debug\net9.0\Exercicio3R.csproj.CoreCompileInputs.cache
+C:\Users\50408858818\Desktop\BackEnd_M\Exercicio3R\obj\Debug\net9.0\Exercicio3R.sourcelink.json
+C:\Users\50408858818\Desktop\BackEnd_M\Exercicio3R\obj\Debug\net9.0\Exercicio3R.dll
+C:\Users\50408858818\Desktop\BackEnd_M\Exercicio3R\obj\Debug\net9.0\refint\Exercicio3R.dll
+C:\Users\50408858818\Desktop\BackEnd_M\Exercicio3R\obj\Debug\net9.0\Exercicio3R.pdb
+C:\Users\50408858818\Desktop\BackEnd_M\Exercicio3R\obj\Debug\net9.0\Exercicio3R.genruntimeconfig.cache
+C:\Users\50408858818\Desktop\BackEnd_M\Exercicio3R\obj\Debug\net9.0\ref\Exercicio3R.dll
