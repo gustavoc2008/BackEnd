@@ -1,0 +1,15 @@
+C:\Users\50408858818\Desktop\BackEnd_M\CadastroDealunos\obj\Debug\net9.0\CadastroDealunos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\50408858818\Desktop\BackEnd_M\CadastroDealunos\obj\Debug\net9.0\CadastroDealunos.AssemblyInfoInputs.cache
+C:\Users\50408858818\Desktop\BackEnd_M\CadastroDealunos\obj\Debug\net9.0\CadastroDealunos.AssemblyInfo.cs
+C:\Users\50408858818\Desktop\BackEnd_M\CadastroDealunos\obj\Debug\net9.0\CadastroDealunos.csproj.CoreCompileInputs.cache
+C:\Users\50408858818\Desktop\BackEnd_M\CadastroDealunos\obj\Debug\net9.0\CadastroDealunos.sourcelink.json
+C:\Users\50408858818\Desktop\BackEnd_M\CadastroDealunos\bin\Debug\net9.0\CadastroDealunos.exe
+C:\Users\50408858818\Desktop\BackEnd_M\CadastroDealunos\bin\Debug\net9.0\CadastroDealunos.deps.json
+C:\Users\50408858818\Desktop\BackEnd_M\CadastroDealunos\bin\Debug\net9.0\CadastroDealunos.runtimeconfig.json
+C:\Users\50408858818\Desktop\BackEnd_M\CadastroDealunos\bin\Debug\net9.0\CadastroDealunos.dll
+C:\Users\50408858818\Desktop\BackEnd_M\CadastroDealunos\bin\Debug\net9.0\CadastroDealunos.pdb
+C:\Users\50408858818\Desktop\BackEnd_M\CadastroDealunos\obj\Debug\net9.0\CadastroDealunos.dll
+C:\Users\50408858818\Desktop\BackEnd_M\CadastroDealunos\obj\Debug\net9.0\refint\CadastroDealunos.dll
+C:\Users\50408858818\Desktop\BackEnd_M\CadastroDealunos\obj\Debug\net9.0\CadastroDealunos.pdb
+C:\Users\50408858818\Desktop\BackEnd_M\CadastroDealunos\obj\Debug\net9.0\CadastroDealunos.genruntimeconfig.cache
+C:\Users\50408858818\Desktop\BackEnd_M\CadastroDealunos\obj\Debug\net9.0\ref\CadastroDealunos.dll
