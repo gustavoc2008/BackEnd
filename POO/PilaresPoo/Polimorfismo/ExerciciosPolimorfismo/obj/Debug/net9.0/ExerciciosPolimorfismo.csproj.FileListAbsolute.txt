@@ -1,0 +1,15 @@
+C:\Users\50408858818\Desktop\BackEnd_M\POO\PilaresPoo\Polimorfismo\ExerciciosPolimorfismo\bin\Debug\net9.0\ExerciciosPolimorfismo.exe
+C:\Users\50408858818\Desktop\BackEnd_M\POO\PilaresPoo\Polimorfismo\ExerciciosPolimorfismo\bin\Debug\net9.0\ExerciciosPolimorfismo.deps.json
+C:\Users\50408858818\Desktop\BackEnd_M\POO\PilaresPoo\Polimorfismo\ExerciciosPolimorfismo\bin\Debug\net9.0\ExerciciosPolimorfismo.runtimeconfig.json
+C:\Users\50408858818\Desktop\BackEnd_M\POO\PilaresPoo\Polimorfismo\ExerciciosPolimorfismo\bin\Debug\net9.0\ExerciciosPolimorfismo.dll
+C:\Users\50408858818\Desktop\BackEnd_M\POO\PilaresPoo\Polimorfismo\ExerciciosPolimorfismo\bin\Debug\net9.0\ExerciciosPolimorfismo.pdb
+C:\Users\50408858818\Desktop\BackEnd_M\POO\PilaresPoo\Polimorfismo\ExerciciosPolimorfismo\obj\Debug\net9.0\ExerciciosPolimorfismo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\50408858818\Desktop\BackEnd_M\POO\PilaresPoo\Polimorfismo\ExerciciosPolimorfismo\obj\Debug\net9.0\ExerciciosPolimorfismo.AssemblyInfoInputs.cache
+C:\Users\50408858818\Desktop\BackEnd_M\POO\PilaresPoo\Polimorfismo\ExerciciosPolimorfismo\obj\Debug\net9.0\ExerciciosPolimorfismo.AssemblyInfo.cs
+C:\Users\50408858818\Desktop\BackEnd_M\POO\PilaresPoo\Polimorfismo\ExerciciosPolimorfismo\obj\Debug\net9.0\ExerciciosPolimorfismo.csproj.CoreCompileInputs.cache
+C:\Users\50408858818\Desktop\BackEnd_M\POO\PilaresPoo\Polimorfismo\ExerciciosPolimorfismo\obj\Debug\net9.0\ExerciciosPolimorfismo.sourcelink.json
+C:\Users\50408858818\Desktop\BackEnd_M\POO\PilaresPoo\Polimorfismo\ExerciciosPolimorfismo\obj\Debug\net9.0\ExerciciosPolimorfismo.dll
+C:\Users\50408858818\Desktop\BackEnd_M\POO\PilaresPoo\Polimorfismo\ExerciciosPolimorfismo\obj\Debug\net9.0\refint\ExerciciosPolimorfismo.dll
+C:\Users\50408858818\Desktop\BackEnd_M\POO\PilaresPoo\Polimorfismo\ExerciciosPolimorfismo\obj\Debug\net9.0\ExerciciosPolimorfismo.pdb
+C:\Users\50408858818\Desktop\BackEnd_M\POO\PilaresPoo\Polimorfismo\ExerciciosPolimorfismo\obj\Debug\net9.0\ExerciciosPolimorfismo.genruntimeconfig.cache
+C:\Users\50408858818\Desktop\BackEnd_M\POO\PilaresPoo\Polimorfismo\ExerciciosPolimorfismo\obj\Debug\net9.0\ref\ExerciciosPolimorfismo.dll
