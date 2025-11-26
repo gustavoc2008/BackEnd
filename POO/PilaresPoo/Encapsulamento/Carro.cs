@@ -42,6 +42,10 @@ namespace Encapsulamento
             {
                 Console.WriteLine($"Velocidade Maxima permitida eh de 250KM/H");
             }
+            else if(valor < 0)
+            {
+                Console.WriteLine($"Nao pode acelerar negativamente");
+            }
             else
             {
                 velocidadeAtual += valor;

@@ -8,7 +8,7 @@ namespace Exercicio05
     public class Conta
     {
         public float numero;
-        public double saldoaBase;
+        public double saldoBase;
         public double saldoAtual;
         public double QntdDeposito;
         public double QntdSacar;
@@ -16,7 +16,7 @@ namespace Exercicio05
 
         public void ExibirInfo()
         {
-            Console.WriteLine($"Saldo: {saldoaBase}");
+            Console.WriteLine($"Saldo: {saldoBase}");
         }
 
         public void ExibirInfo2()
@@ -26,7 +26,7 @@ namespace Exercicio05
 
         public double Depositar()
         {
-            return saldoAtual = saldoaBase += QntdDeposito;
+            return saldoAtual = saldoBase += QntdDeposito;
         }
 
         public double Sacar()
@@ -34,16 +34,16 @@ namespace Exercicio05
             if (QntdSacar <= 0)
             {
                 Console.WriteLine($"Valor Invalido");
-                return saldoaBase;
+                return saldoBase;
             }
-            else if (QntdSacar > saldoaBase)
+            else if (QntdSacar > saldoBase)
             {
                 Console.WriteLine($"Saldo Insuficiente para Saque!!!");
-                return saldoaBase;
+                return saldoBase;
             }
             else
             {
-                return saldoAtual = saldoaBase -= QntdSacar;
+                return saldoAtual = saldoBase -= QntdSacar;
             }
         }
 
@@ -54,7 +54,7 @@ namespace Exercicio05
 
             Console.WriteLine($"Deposito Realizado");
         }
-        
+
         public void Exibir2()
         {
             Console.WriteLine($"Realizando Saque...");

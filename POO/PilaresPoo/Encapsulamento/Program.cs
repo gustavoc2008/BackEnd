@@ -25,7 +25,7 @@ carroGu.ObterMarca();
 carroGu.DefinirModelo("RX7");
 carroGu.ObterModelo();
 carroGu.ObterVelocidade();
-carroGu.Acelerar(100);
+carroGu.Acelerar(250);
 carroGu.Frear(40);
 
 Console.WriteLine($"");

@@ -87,7 +87,7 @@ void Depositar()
 {
     Console.Clear();
     Console.WriteLine($"==================================");
-    Console.WriteLine($"             Depositar            ");
+    Console.WriteLine($"            Depositar             ");
     Console.WriteLine($"==================================");
 
     int idCliente = BuscarCliente();

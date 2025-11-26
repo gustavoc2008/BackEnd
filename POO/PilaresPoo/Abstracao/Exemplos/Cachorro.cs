@@ -1,0 +1,21 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Threading.Tasks;
+
+namespace Exemplos
+{
+    public class Cachorro : Animal
+    {
+        public override void FazerSom()
+        {
+            Console.WriteLine($"AUAU!!!");
+        }
+
+        public override void Mover()
+        {
+            Console.WriteLine($"Ploc, Ploc, Ploc");
+            FazerSom();
+        }
+    }
+}
